@@ -1,2 +1,2 @@
-# finalproject
+# Final project
 Finalni projekat. Sastojace se od svega sto smo radili u prethodnim predavanjima. Znaci, html, css i javascript...
